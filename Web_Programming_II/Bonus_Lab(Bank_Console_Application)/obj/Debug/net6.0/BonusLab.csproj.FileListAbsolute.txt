@@ -1,0 +1,120 @@
+C:\Users\elena\source\repos\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\source\repos\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\source\repos\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\source\repos\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\source\repos\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\source\repos\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Bon\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\1\Bon\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Validation\Bon\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Submission\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\BONUS LABBB\Sub2\Submission\Bonus Lab\obj\Debug\net6.0\ref\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\bin\Debug\net6.0\BonusLab.exe
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\bin\Debug\net6.0\BonusLab.deps.json
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\bin\Debug\net6.0\BonusLab.runtimeconfig.json
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\bin\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\bin\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\refint\BonusLab.dll
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.pdb
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\BonusLab.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Desktop\newcheck\Bonus Lab_Elena Khrychenkova\obj\Debug\net6.0\ref\BonusLab.dll
