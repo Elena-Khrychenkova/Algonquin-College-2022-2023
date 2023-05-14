@@ -1,0 +1,168 @@
+html {
+   scroll-behavior: smooth;
+}
+
+header img {
+   height: 250px;
+ }
+
+ header {
+    text-align: center;
+    font-size: 24pt;
+    padding: 10px;
+    color: #4E6366;
+ }
+
+ .sans-serif {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ nav {
+    text-align: center;
+    font-size: 18pt;
+    padding: 30px;
+    background-color: #1A3A34;
+    color: white;
+ }
+
+ #Leaves {
+    height: 563px;
+ }
+
+ .heading {
+    text-align: center;
+    font-size: 24pt;
+    padding: 10px;
+    color: #4E6366;
+ }
+
+ .rightfloater {
+   float: right;
+   padding: 0 0 20px;
+ }
+
+ .leftfloater {
+   float: left;
+   padding: 0 0 20px;
+ }
+
+ #woman {
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+
+#plant {
+   margin-right: 20px;
+   height: 350px;
+   border-radius: 50%;
+   margin-left: 20px;
+}
+
+ .text {
+    text-align: left;
+    font-size: 16pt;
+    padding: 30px;
+ }
+
+ #assortimentheading, #whyusheading {
+    padding: 50px;
+    color: white;
+    background-color: #1A3A34;
+ }
+
+ .flexcontainer {
+   display: flex;
+   flex-wrap: wrap-reverse;
+   justify-content: space-between;
+ }
+ 
+ .flexcontainer > div {
+   width: 300px;
+   margin: 10px;
+   text-align: center;
+   line-height: 75px;
+   font-size: 30px;
+ }
+
+#contactu {
+text-align: center;
+color: #4E6366;
+}
+
+ input {
+   width: 100%;
+   padding: 10px 20px;
+   margin: 8px 0;
+   box-sizing: border-box;
+   border: 2px solid #1A3A34;
+   border-radius: 5px;
+   text-align: center;
+ }
+
+ textarea {
+   width: 100%;
+   height: 140px;
+   padding: 10px 20px;
+   box-sizing: border-box;
+   border: 2px solid #1A3A34;
+   border-radius: 5px;
+   background-color:#4E6366;
+   color:white;
+   font-size: 16px;
+ }
+ 
+ #sendbutton {
+   width: 50%;
+   margin-left: 400px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ table {
+   border-collapse: collapse;
+   text-align: center;
+   font-size: 16pt;
+   padding: 30px;
+   width: 50%;
+   margin-left:25%; 
+   margin-right:30%;
+}
+
+td {
+   border: 2px solid #1A3A34;
+}
+
+tr {
+   border: 2px solid #1A3A34; 
+}
+
+.tablecolor {
+   background-color:#4E6366;
+   color: white;
+}
+ 
+ footer {
+   text-align: right;
+   font-size: 12pt;
+   padding: 10px;
+   background-color: #1A3A34;
+   color: white;
+ }
+
+    a {
+    color: white;
+    text-decoration: none;
+
+ }
+ nav a:hover {
+   color: #4E6366;
+ }
+
+ .icon {
+   display: flex;
+   flex-wrap: nowrap;
+   margin-left: 30%; 
+   margin-right: 20%; 
+ }
+

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Elena Khrychenkova">
+    <meta name="email" content="khry0001@algonquinlive.com">
+    <style>
+        .calculator {
+            width: 299px;
+            height: 550px;
+            border: 4px solid black;
+            margin: auto;
+            max-inline-size: 350px;
+            color: rgb(65, 60, 60);
+            font-family:fantasy;
+            background-color:  rgb(71, 66, 74);
+            border-radius: 30px;
+        }
+
+        .display {
+            border-bottom: black;
+            background: rgb(142, 197, 105);
+            font-size: 40px;
+            border-radius: 10px;  
+            text-align: end;
+        }
+
+
+        .keypad {
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            background: rgb(71, 66, 74);
+            border-radius: 10px;
+            padding: 10px; 
+        }
+
+        .mode {
+            grid-column: 2/4;
+        }
+
+        .button {
+            background: white;
+            font-size: 20px;
+            padding-inline-end: 20px;
+            padding-inline-start: 20px;
+            block-size: 70px;
+            margin: 1px;
+            border-radius: 10px; 
+        }
+    </style>
+    <title>Very Simple Calculator</title>
+    
+
+</head>
+<body>
+    <div class="calculator">
+        <div class="display">
+           <p>0</p>  
+        </div>
+        <div class="keypad">
+            <button class="button">7</button>
+            <button class="button">8</button>
+            <button class="button">9</button>
+            <button class="button">-</button>
+            <button class="button">4</button>
+            <button class="button">5</button>
+            <button class="button">6</button>
+            <button class="button">/</button>
+            <button class="button">1</button>
+            <button class="button">2</button>
+            <button class="button">3</button>
+            <button class="button">X</button>
+            <button class="button">0</button>
+            <button class="button" id="buttonC">C</button>
+            <button class="button">=</button>
+            <button class="button">+</button>       
+            <button class="button mode">dark mode</button>
+        </div>
+    </div>
+
+    <script>
+        let firstNumber = '';
+let secondNumber = '';
+let mathSign = '';
+let calculator = document.querySelector('.calculator')
+let finishInput = false;
+let number = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+let mathAction = ['-', '+', 'X', '/'];
+let clearAll = 'C' 
+
+//screen displays
+let screenDisplay = document.querySelector('.display p');
+//function to clear display when we call it (by pushing C button)
+function clearDisplay () {
+    firstNumber = '';
+    secondNumber = '';
+    mathSign = ''; 
+}
+
+calculator.addEventListener('click', function(event) {
+    screenDisplay.innerText = '';
+
+    let buttonPushed = event.target.innerText; // get the pushed button
+
+    //a number pushed
+    if (number.includes(buttonPushed)) {
+        if (secondNumber === '' && mathSign === '') {
+            firstNumber += buttonPushed;
+            screenDisplay.innerText = firstNumber;
+        }
+        else if (firstNumber!=='' && secondNumber!=='' && finishInput) {
+            secondNumber = buttonPushed;
+            finishInput = false;
+            screenDisplay.innerText = secondNumber;
+        }
+        else {
+            secondNumber += buttonPushed;
+            screenDisplay.innerText = secondNumber;
+        };
+    }
+    //an operator pushed
+    else if (mathAction.includes(buttonPushed)) { 
+        mathSign = buttonPushed;
+        screenDisplay.innerText = firstNumber;   
+    }
+    //a C button pushed
+    else if (clearAll.includes(buttonPushed)) {
+        clearDisplay ()
+        display.innerText = '0';
+        
+    }
+    //an equal sign pushed
+    else if (buttonPushed === '=') {
+        switch (mathSign) {
+            case '+':
+                firstNumber = (+firstNumber) + (+secondNumber);
+                break;
+            case '-':
+                firstNumber = firstNumber - secondNumber;
+                break;
+            case 'X':
+                firstNumber = firstNumber * secondNumber;
+                break;
+            case '/':
+                firstNumber = firstNumber / secondNumber;
+                break;
+        }
+        finishInput = true;
+        screenDisplay.innerText = firstNumber;
+    }
+})
+    </script>
+</body>
+</html>
+
+<!--references:
+    1) https://www.w3schools.com/
+    2) https://www.youtube.com/watch?v=ew1oapoX2Ho
+    3) https://thecode.media/calc-js/
+    4) https://www.youtube.com/watch?v=Gquaiuj-VpU
+    5) https://www.cssacademy.com/blog/create-a-calculator-in-html-and-css
+    6) https://www.makeuseof.com/build-a-simple-calculator-using-html-css-javascript/
+    7) https://habr.com/ru/post/500086/ 
+-->
